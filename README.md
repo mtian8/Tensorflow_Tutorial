@@ -4,7 +4,7 @@ This tutorial covers the basics of Deep Learning with Convolutional Neural Nets.
 
 ## __Introduction:__
 
-- **Linear Regression** as __single layer, single neuron model__ to motivate the introduction of Neural Networks as Universal Approximators that are modeled as collections of neurons connected in an acyclic graph
+- **Linear Regression** as __single layer, single neuron model__ to motivate the introduction of Neural Networks as Universal Approximators that are modeled as collections of neurons.
 
 - __Loss/Error functions__, __Gradient Decent__, __Backpropagation__, etc
 
